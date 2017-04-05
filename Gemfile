@@ -32,6 +32,11 @@ gem 'jbuilder', '~> 2.5'
 
 #Gem for Authentication
 gem 'devise'
+#HAML para crear html más rápido
+gem 'haml-rails'
+#Bootstrap
+gem 'bootstrap-sass'
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
